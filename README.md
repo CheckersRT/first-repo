@@ -12,7 +12,9 @@
 - thing
 - thing
 
-## Link to page
+### Link to page
 [Spiced Academy](https://www.spiced-academy.com)
 
+### Add an image
+![](https://mars.nasa.gov/system/site_config_values/meta_share_images/1_mars-nasa-gov.jpg)
 
