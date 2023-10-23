@@ -12,3 +12,7 @@
 - thing
 - thing
 
+## Link to page
+[Spiced Academy](https://www.spiced-academy.com)
+
+
