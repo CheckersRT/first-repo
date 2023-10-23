@@ -20,3 +20,12 @@
 
 ### Add a local image
 ![Mars with local link](./1_mars-nasa-gov.jpg)
+
+## Code
+### Code Line
+We can add a code line `console.log("Almost done!")`
+
+### Code Block`
+``` code block ```
+
+
