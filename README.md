@@ -1,5 +1,14 @@
 # Learning Github and Markdown
 
-## Sub Title
+## List in Markdown
 
-### Sub Sub Title
+### Ordered list
+1. first thing
+2. second thing
+3. third thing
+
+### Unordered List
+- thing
+- thing
+- thing
+
